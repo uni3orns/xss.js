@@ -167,10 +167,5 @@
 		}
 	};
 
-	/*
-	 * 获取当前页面源码
-	 */
-	x.source=function()
-	
 	return x;
 }();
