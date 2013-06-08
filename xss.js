@@ -5,7 +5,6 @@
 		'author':'长短短(sogili)'
 	};
 
-	
 	x.x=function(id){return document.getElementById(id)};
 	
 	//容错取值
